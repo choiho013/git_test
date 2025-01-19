@@ -7,6 +7,7 @@ public class IntroMain {
 		//테스트 투
 		//테스트
 		//테트리스
+		//테테
 
 	}
 
