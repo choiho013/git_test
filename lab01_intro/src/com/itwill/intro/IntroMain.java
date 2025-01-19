@@ -8,6 +8,7 @@ public class IntroMain {
 		//테스트
 		//테트리스
 		//테테2
+		//테식이
 
 	}
 
