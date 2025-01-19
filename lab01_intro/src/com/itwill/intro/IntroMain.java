@@ -12,6 +12,7 @@ public class IntroMain {
 		//수정이야 수정
 		//수정
 		System.out.println("머자하려고 충돌 시도~ 되어라 얍!");
+		//테스트
 	}
 
 }
